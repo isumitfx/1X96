@@ -1154,7 +1154,7 @@ ol {
   cursor: pointer;
   -webkit-transition: all .3s ease-out 0s;
   transition: all .3s ease-out 0s;
-  border-radius: 5px;
+  border-radius: 30px;
 }
 
 .scroll-top.style2 {
